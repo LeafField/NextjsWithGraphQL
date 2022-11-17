@@ -63,7 +63,7 @@ export default function Home({ post }) {
         className={styles.content}
         dangerouslySetInnerHTML={{ __html: post.content.html }}
       />
-      <div className={styles.backBtton}>
+      <div className={styles.backButton}>
         <Link href="/">
           <span>←戻る</span>
         </Link>
