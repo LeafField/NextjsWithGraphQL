@@ -14,5 +14,9 @@
     "next": "13.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.0.0"
   }
 }
